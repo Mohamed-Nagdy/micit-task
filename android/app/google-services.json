@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "57277552174",
+    "project_id": "licit-task",
+    "storage_bucket": "licit-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57277552174:android:654491f8085e5c71dbb1bf",
+        "android_client_info": {
+          "package_name": "com.micit.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57277552174-dalhvag8bcb0najhem18ie5ifugdat9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFA6Y5UGbtEl9FroCgAZUIQdlhFqnnDJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57277552174-dalhvag8bcb0najhem18ie5ifugdat9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "57277552174-25qc2f76aoc499m7du24ib5sprt1gv6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.micit.task"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
